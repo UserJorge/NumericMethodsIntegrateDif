@@ -1,0 +1,16 @@
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\bin\Debug\CalculoMetodosNumU4.exe.config
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\bin\Debug\CalculoMetodosNumU4.exe
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\bin\Debug\CalculoMetodosNumU4.pdb
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\bin\Debug\Calculus.dll
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\CalculoMetodosNumU4.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\MainWindow.g.cs
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\App.g.cs
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\CalculoMetodosNumU4_MarkupCompile.cache
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\CalculoMetodosNumU4_MarkupCompile.lref
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\MainWindow.baml
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\CalculoMetodosNumU4.g.resources
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\CalculoMetodosNumU4.Properties.Resources.resources
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\CalculoMetodosNumU4.csproj.GenerateResource.cache
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\CalculoMetodosNumU4.csproj.CopyComplete
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\CalculoMetodosNumU4.exe
+C:\Users\jorge\source\repos\CalculoMetodosNumU4\CalculoMetodosNumU4\obj\Debug\CalculoMetodosNumU4.pdb
